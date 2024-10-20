@@ -1,2 +1,2 @@
 # GUNet
-The source code and dataset will be released later.
+The source code will be released later.
